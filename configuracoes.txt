@@ -1,0 +1,31 @@
+topics: qtqeeXXX-default
+
+--
+Instancia:
+
+Details
+Hostname	dory.srvs.cloudkafka.com
+Region	amazon-web-services::us-east-1
+Created at	2021-10-09 16:46 UTC+00:00
+Username	qtqeeXXX
+Password	euoE0gXG4L9wbTbiaN7I9UP-XXX
+
+---
+
+Connection details
+Download Using SASL/SCRAM
+Username	qtqeeXXX
+Password	euoE0gXG4L9wbTbiaN7I9UP-XXX
+Topic prefix	qtqeeXXX-
+Servers	dory-01.srvs.cloudkafka.com:9094
+dory-02.srvs.cloudkafka.com:9094
+dory-03.srvs.cloudkafka.com:9094
+
+---
+
+Examples using SASL/SCRAM
+Java https://github.com/CloudKarafka/java-kafka-example
+Spring Boot https://github.com/CloudKarafka/springboot-kafka-example
+Ruby https://github.com/CloudKarafka/ruby-kafka-example
+Python https://github.com/CloudKarafka/python-kafka-example
+Go https://github.com/CloudKarafka/go-kafka-example
